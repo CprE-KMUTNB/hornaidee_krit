@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# HORNAIDEE
+![logo](https://github.com/CprE-KMUTNB/hornaidee_krit/assets/54215235/303159f5-a75e-4bc3-bcf2-432475164159)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+เว็บไซต์สำหรับหาหอพักสำหรับนักศึกษามจพ. เป็นสื่อกลางระหว่างหอพักและนักศึกษาติดต่อกันง่ายขึ้น
+# เว็บสามารถทำอะไรได้บ้าง
 
-## Available Scripts
+## สำหรับนักศึกษา
 
-In the project directory, you can run:
+### 1.หาหอพักได้
+![image](https://github.com/CprE-KMUTNB/hornaidee_krit/assets/54215235/10e16e15-5f10-4086-821e-ea2c61fc427d)
 
-### `npm start`
+### 2.ค้นหาหอพักด้วยชื่อและฟิวเตอร์ระยะทางและราคา
+![image](https://github.com/CprE-KMUTNB/hornaidee_krit/assets/54215235/c1be7be8-0af6-4369-897a-4bf344ed8f2e)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 3.ดูข้อมูลหอพัก
+![image](https://github.com/CprE-KMUTNB/hornaidee_krit/assets/54215235/e8c23b17-6bc4-43f1-9012-a6a18c125e60)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 4.รีวิวหอพัก
+![image](https://github.com/CprE-KMUTNB/hornaidee_krit/assets/54215235/74d8da6c-037d-4521-91ce-5fcc50ebb5ac)
 
-### `npm test`
+### 5.ระบบแชทระหว่างนักศึกษากับหอพัก
+![image](https://github.com/CprE-KMUTNB/hornaidee_krit/assets/54215235/2c83b90a-328b-47d4-9bfe-11d9b6a509ad)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 6.ติดต่อขอความช่วยเหลือจากadmin
+![image](https://github.com/CprE-KMUTNB/hornaidee_krit/assets/54215235/9688525f-ea2c-4ea0-9b6d-4e93de68596d)
 
-### `npm run build`
+## สำหรับหอพัก
+ทางหอพักมีฟังก์ชันเหมือนกันตัวของนักศึกษาแต่มีฟังก์ชันเพิ่มเติมคือ
+### แก้ไขข้อมูลหอพัก
+![image](https://github.com/CprE-KMUTNB/hornaidee_krit/assets/54215235/06b8e918-97bc-40ff-98e1-4452bb42ab0f)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## สำหรับadmin
+แอดมินสามารถใช้ฟังก์ชันแก้ไขหอพักได้เหมือนทางหอพักและมีฟังก์ชันเสริมสำหรับadminคือ
+### ตอบคำถามจากทางนักศึกษาและหอพัก
+![image](https://github.com/CprE-KMUTNB/hornaidee_krit/assets/54215235/78e69e15-9209-4320-b0bd-365afd78aadc)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# วัตถุประสงค์
+1.เพื่อช่วยเหลือนักศึกษาในการหาหอพักให้สะดวกและรวดเร็วมากขึ้น
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2.เพื่อช่วยให้นักศึกษาได้ข้อมูลของหอพักอย่างครบถ้วน
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+3.เพื่อช่วยหอพักในการเพิ่มโอกาสการหาผู้เช่า
